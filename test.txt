@@ -1,0 +1,8 @@
+int a,b,c;
+float foo (int a; float c, d ) { 
+    foo();
+} 
+
+float goo ( float a , b ) { 
+    return foo ( 1, a, b ) ; 
+}
